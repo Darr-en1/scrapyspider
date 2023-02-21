@@ -1,0 +1,7 @@
+Scrapy==2.7.0
+Pillow==9.3.0
+mysqlclient==2.1.1
+scrapyd==1.4.1
+scrapy-redis==0.7.3
+scrapyd-client==1.2.3
+gerapy==0.9.12
